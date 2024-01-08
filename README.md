@@ -1,7 +1,7 @@
 # python-guessing-game
 > This interactive game in Python lets you guess letters to find the secret word. Includes a final score at the end.
 
-## Installation
+## Running the Program
 To run the program, ensure that you have Python installed (version 3 or newer).
 
 1. Download the files in the folder named "code".
@@ -29,7 +29,7 @@ To run the program, ensure that you have Python installed (version 3 or newer).
 7. You should now be able to run the guessing game. Your final score will be given when you exit the game. Guess your letters wisely, and have fun!
 
 ## Word Bank
-A list of the database of words can be found in (code/four_letters.txt).
+The full list of the database of 4-letter words can be found in (code/four_letters.txt).
 
 
 
