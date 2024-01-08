@@ -27,9 +27,11 @@ To run the program, ensure that you have Python installed (version 3 or newer).
    python3 words.py test
    ```
 7. You should now be able to run the guessing game. Your final score will be given when you exit the game. Guess your letters wisely, and have fun!
+   
+   ![Screenshot of a preview of the start of the guessing game in play mode.](/preview.PNG)
 
 ## Word Bank
-The full list of the database of 4-letter words can be found in (code/four_letters.txt).
+The full list of the database of 4-letter words can be found in (/code/four_letters.txt).
 
 
 
