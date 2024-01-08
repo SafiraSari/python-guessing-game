@@ -24,7 +24,7 @@ To run the program, ensure that you have Python installed (version 3 or newer).
    ```
    (or)
    ```
-   python3 words.py test
+   python3 words.py play
    ```
 7. You should now be able to run the guessing game. Your final score will be given when you exit the game. Guess your letters wisely, and have fun!
    
