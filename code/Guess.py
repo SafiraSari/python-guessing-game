@@ -1,5 +1,5 @@
 # ------------------------------------------------
-# Safira Sari - 40249017
+# Safira Sari
 # COMP 348 - Principles of Programming Languages
 # A2 - Python: The Great Guessing Game
 # ------------------------------------------------
