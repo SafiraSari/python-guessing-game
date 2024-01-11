@@ -26,7 +26,7 @@ To run the program, ensure that you have Python installed (version 3 or newer).
    ```
    python3 words.py play
    ```
-7. You should now be able to run the guessing game. Your final score will be given when you exit the game. Guess your letters wisely, and have fun!
+7. You should now be able to run the guessing game. Your final score will be given in a table when you quit the game. Guess your letters wisely, and have fun!
    
    ![Screenshot of a preview of the start of the guessing game in play mode.](/preview.PNG)
 
